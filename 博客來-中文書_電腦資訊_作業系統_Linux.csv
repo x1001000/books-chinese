@@ -1,0 +1,193 @@
+,書名,作者,出版日期,內容介紹,網址
+1,圖解LINUX指令操作與網路設定,河野寿,2020-10-21,"
+看圖就能了解Linux的操作，學習無負擔   本書的宗旨為「看圖就了解Linux的操作」。您只要看看漫畫、插圖圖解與Point的內容，就能了解這些命令或操作會有什麼結果。 本書特色   .透過漫畫詮釋Linux的抽象概...more
+",https://www.books.com.tw/products/0010873420?loc=P_0003_001
+2,CentOS Linux 8實務管理應用,酆士昌,2020-04-14,"
+傳授最新的CentOS改版攻略，讓你成為CentOS的實務達人   本書彙整作者多年的教學與開發經驗，從基礎知識直搗核心應用，立刻就能學習到各種伺服器架設與管理的方式，是想從新手變成網管人員所不容錯過的工...more
+",https://www.books.com.tw/products/0010853985?loc=P_0003_002
+3,嵌入式Linux系統實作：初心者開發設計專業方略,方元,2020-02-21,"
+本書分為兩大部分   第1部分-基礎篇(第1~8章)：   包括Linux系統基本使用方法與其主要開發工具、檔案讀寫、多工機制、網路通訊端程式設計、模組與裝置驅動、嵌入式Linux系統的軟體結構、GUI程式設計初步等...more
+",https://www.books.com.tw/products/0010850380?loc=P_0003_003
+4,精通嵌入式Linux程式設計(暢銷回饋版),Chris Simmonds,2019-12-06,"
+☛☛博碩嚴選!首版熱銷數千本，佳評如潮!回饋發行!☛☛   ♛Yocto Project開發者兼Linux Foundation成員~~Richard Purdie推薦   ♛駕馭Linux系統，隨心所欲創造出靈活又穩健的嵌入式裝置   本......more
+",https://www.books.com.tw/products/0010841433?loc=P_0003_004
+5,邁向Linux工程師之路：Superuser一定要懂的技術與運用(第二版),Brian Ward,2019-11-14,"
+Linux不像其他的作業系統，它不會對使用者隱瞞重要的資訊。反之，Linux會讓它的使用者掌控一切。而想要掌握Linux，就必須理解此作業系統的工作機制，包括「系統是如何啟動的」(boots)、networking是如何運...more
+",https://www.books.com.tw/products/0010839207?loc=P_0003_005
+6,LINUX FIREWALLS中文版(4版)：善用NFTABLES等超強工具捍衛LINUX防火牆的安全性,Steve Suehring,2019-09-12,"
+本書是運用iptables和nftables建構Linux防火牆的傑出指南   伴隨著Linux系統和網路管理員面臨的安全挑戰漸漸增多，他們能夠使用的安全工具和技術也得到顯著改善。傑出的Linux安全專家Steve Suehring，在本...more
+",https://www.books.com.tw/products/0010833735?loc=P_0003_006
+7,Ubuntu19完全自學手冊：桌面、系統與網路應用全攻略,酆士昌,2019-09-03,"
+傳授最新的Ubuntu改版攻略，讓您成為Ubuntu的實務達人   了解基本操作、系統管理、資料庫、伺服器應用的實用技巧，來紮實、有效率地學習實務技能!   Linux發展迄今已經二十餘年，歷經了多次大小改版延伸至...more
+",https://www.books.com.tw/products/0010832177?loc=P_0003_007
+8,圖解Linux核心工作原理：透過實作與圖解學習OS與硬體的基礎知識,武內覺,2018-12-25,"
+本書可以幫助您更進一步了解作業系統與硬體的基礎知識   Linux如今廣泛地應用於伺服器、雲端服務、智慧型手機、物聯網裝置。本書可以幫助您具體地了解Linux核心的工作原理，包括行程管理、記憶體管理、檔...more
+",https://www.books.com.tw/products/0010808891?loc=P_0003_008
+9,物聯網之作業系統：嵌入式Linux開發實作,方元,2018-12-06,"
+本書分為兩大部分   第1部分-基礎篇(第1~8章)：   包括Linux系統基本使用方法與其主要開發工具、檔案讀寫、多工機制、網路通訊端程式設計、模組與裝置驅動、嵌入式Linux系統的軟體結構、GUI程式設計初步等...more
+",https://www.books.com.tw/products/0010807309?loc=P_0003_009
+10,Linux動手打造企業E化環境(二版),顧武雄,2018-09-25,"
+由於雲端運算世代的來臨，因此現今無論是企業、公務部門還是校園皆已吹起了社群應用風，然而對於廣泛的IT單位而言，如今市面上卻沒有一本參考書，來告訴它們該如何在以Linux平台為主的架構中，來著手建置...more
+",https://www.books.com.tw/products/0010800783?loc=P_0003_010
+11,精通嵌入式Linux程式設計,Chris Simmonds,2018-08-10,"
+Yocto Project開發者兼Linux Foundation成員~~Richard Purdie推薦   駕馭Linux系統   隨心所欲創造出靈活又穩健的嵌入式裝置   本書的內容將帶領你遍覽開發週期的每個環節，並深入環節中的每個階......more
+",https://www.books.com.tw/products/0010795044?loc=P_0003_011
+12,奔跑吧!Linux kernel|Linux 4.x kernel關鍵與原始程式碼解析,張天飛,2018-08-01,"
+‧以Linux 4.x kernel和Android 7.x kernel為基礎   ‧以ARM32/ARM64體系架構為基礎   ‧以實際應用的問題為導向的kernel分析   ‧介紹目前內核社群新的技術發展   ‧介紹尖端新技術：EAS......more
+",https://www.books.com.tw/products/0010794061?loc=P_0003_012
+13,Microsoft + Linux = 微軟的大一統整合平台,"張廣昀,李爭",2017-12-04,"
+本書系統介紹了微軟新一代高效、跨平台的應用平台.NET Core 1.0。借助.NET Core,原本只能運行在Windows 上的.NET 應用可以運行在Linux、OS X甚至是UNIX上。結合微軟的Apache Cordova 和Xa......more
+",https://www.books.com.tw/products/0010772198?loc=P_0003_013
+14,鳥哥的Linux基礎學習訓練教材(附DVD),鳥哥,2017-11-29,"
+鳥哥將實際授課經驗彙整而成，以最淺顯易懂的文字，搭配教學的虛擬作業系統環境，最適合大專院校Linux作業系統課程!   ※每週一次、每次三小時的學習內容，最適合大專院校Linux作業系統課程   本書的所有例...more
+",https://www.books.com.tw/products/0010771641?loc=P_0003_014
+15,Fedora Linux 系統管理與架站實務 第二版,施威銘研究室,2017-09-15,"
+從【基本操作】、【系統管理】到【伺服器架設】，全方位學習 Linux 實務技能!   Linux 是很多公司使用的系統，本書是您取得 Linux 職場新技能的最佳選擇!   想學會 Linux 系統管理、架站，不一定要挑戰艱...more
+",https://www.books.com.tw/products/0010764987?loc=P_0003_015
+16,Ubuntu17完全自學手冊：桌面、系統與網路應用全攻略,酆士昌,2017-08-09,"
+第一次學Ubuntu17就上手!資深Linux講師傳授最新的Ubuntu改版攻略，讓您成為Ubuntu的實務達人   了解基本操作、系統管理、資料庫、伺服器應用的實用技巧，來紮實、有效率地學習實務技能!   【深入淺出】內...more
+",https://www.books.com.tw/products/0010761074?loc=P_0003_016
+17,與Ubuntu共舞：中文環境調校x雲端共享x Libreoffice x 架站 x dropbox自己架(隨書附贈教學影片與Ububntu安裝光碟),吳紹裳,2017-07-20,"
+附DVD一片   本書以單步圖文並茂的教學方式，讓您可以用最簡單最輕鬆的方式，短時間內學會Ubuntu Linux，並透過它安裝及使用各式各樣日常生活中必備的應用軟體，舉凡上網、辦公式應用、影音播放與處理、程...more
+",https://www.books.com.tw/products/0010758807?loc=P_0003_017
+18,Linux Shell 程式設計與管理實務 [第三版],臥龍小三,2017-07-10,"
+系統管理者必備的經典工具書   主機管理的上乘之道，就在於能夠把工作予以自動化；凡是可以交給電腦做的事，就不要由人來做。工作自動化的關鍵，就在於管理者是否具備 Shell 程式設計的能力。我們可以說：...more
+",https://www.books.com.tw/products/0010757177?loc=P_0003_018
+19,深入理解Linux程式設計：從應用到核心,"李彬,高峰",2017-06-30,"
+‧應用程式設計與核心實作相互結合   ‧幫助開發人員深入核心，解析Linux介面工作原理，掌握Linux系統運行機制   《Advanced Programming Unix Environment》(簡稱APUE)幾乎是Linux領域程式......more
+",https://www.books.com.tw/products/0010756897?loc=P_0003_019
+20,硬漢之路：UNIX 完美淬鍊,張春曉,2017-06-30,"
+UNIX和Linux究竟難不難學? 怎樣才能學郝甚至精通UNIX和Linux呢? 這些正是本書要解答的問題。   本書以目前最為流行的UNIX衍生版Solaris11和FreeBSD為基礎，針對在UNIX系統維護過程中最容易遇到的各種問題...more
+",https://www.books.com.tw/products/0010757323?loc=P_0003_020
+21,CentOS 7 伺服器架設與管理實務,酆士昌,2017-06-23,"
+學習 Linux 系統就是要架站!   本書捨棄不必要的應用程式操作，直搗 Linux 系統的核心應用，立即就能學習到各種伺服器架設與管理的方式，同時也幫您補足相關的網路背景知識，在最短的時間內熟悉 Linux 網...more
+",https://www.books.com.tw/products/0010757066?loc=P_0003_021
+22,CentOS 7.3建置、管理與伺服器架設實戰,湯秉翰,2017-06-15,"
+自由軟體中最有學習效益的一套Linux    功能全新進化，技術全面升級   + systemd-新一代系統服務管理詳解   + firewalld-取代iptables的動態防火牆   + Docker-由Redhat與Google強力支......more
+",https://www.books.com.tw/products/0010755095?loc=P_0003_022
+23,DRBD權威指南：使用Corosync+Heartbeat技術建構RAID,陶利軍,2016-10-28,"
+從理論到實作，再到生產環境下的使用   從部署安裝到版本升級，再到故障解決   從日常管理到最佳化，再到方便的圖形介面   DRBD是一種網路RAID1，能將兩台獨立主機的存放裝置作為RAID1 來使用，兩台機器來...more
+",https://www.books.com.tw/products/0010734587?loc=P_0003_023
+24,解析Linux驅動程式設計,"吳國偉,姚琳,畢成龍",2016-10-18,"
+本書涵蓋 Linux 核心及模組的編譯流程，接著說明其檔案系統、資料結構、事件管理及 IRQ 等概念。並分門別類陳述諸如網路、輸入、I2C、PCI、USB 等領域之驅動程式設計。...more
+",https://www.books.com.tw/products/0010731526?loc=P_0003_024
+25,The Linux Programming Interface 國際中文版 (上冊),Michael Kerrisk,2016-10-12,"
+Linux與UNIX®系統程式開發經典 完整涵蓋Linux API：函式、介面、程式設計範例   《The Linux Programming Interface》是Linux與UNIX系統程式開發大全，幾乎涵蓋了全部Linux與UNIX系......more
+",https://www.books.com.tw/products/0010731018?loc=P_0003_025
+26,The Linux Programming Interface 國際中文版 (下冊),Michael Kerrisk,2016-10-12,"
+Linux與UNIX®系統程式開發經典 完整涵蓋Linux API：函式、介面、程式設計範例   《The Linux Programming Interface》是Linux與UNIX系統程式開發大全，幾乎涵蓋了全部Linux與UNIX系......more
+",https://www.books.com.tw/products/0010731020?loc=P_0003_026
+27,Linux OpenLDAP實戰指南,郭大勇,2016-09-20,"
+OpenLDAP是Linux作業系統中輕量型目錄存取協定(Lightweight Directory Access Protocol，LDAP)的一個自由和開放源碼的實現。本書循序漸進地講解了LDAP協定以及OpenLDAP以及在企業中的應......more
+",https://www.books.com.tw/products/0010728799?loc=P_0003_027
+28,你總要離開Windows的：從Ubuntu開始進入Linux Bash的世界,"郝軍,馬玉軍",2016-06-30,"
+本書特點   ■ 實用性強，書中範例來自多位在Linux 系統中的開發人員和實施維護人員的實戰經驗，結合對Shell 指令稿程式設計的了解和獨特見解，從實際應用角度出發，對實際專案中的實例進行細緻的說明和分...more
+",https://www.books.com.tw/products/0010719974?loc=P_0003_028
+29,Ubuntu 系統管理與架站實務(第2版),施威銘研究室,2016-05-26,"
+【從基本操作到系統管理、伺服器架設, 全方位學習 Linux 實務技能!】   Linux 是很多公司使用的系統, 從不會到會, 本書是您取得 Linux 職場新技能的最佳選擇!   想學會 Linux 系統管理、架站, 不一定要挑...more
+",https://www.books.com.tw/products/0010717066?loc=P_0003_029
+30,生物人的電腦教室(生物資訊入門者的必備讀物，非資訊專業者也能快速上手!),李鎮宇（Eric Lee）,2016-03-14,"
+生物資訊入門者的必備讀物，非資訊專業者也能快速上手!     生物資訊學(Bioinformatics)，主要的精神就是利用個人電腦的計算能力，在原始的生物資料被數位化之後，用資訊科學的方法嘗試解決問題。把過去需...more
+",https://www.books.com.tw/products/0010708550?loc=P_0003_030
+31,鳥哥的Linux私房菜：基礎學習篇(附DVD一片)(第四版),鳥哥,2016-01-27,"
+附DVD一片    Linux經典學習書!   本書前三版均蟬聯電腦專業書籍Linux暢銷排行榜Top1，為地表上最暢銷的Linux中文書籍!   您是有意學習Linux的小菜鳥，卻不知如何下手?   您是遨遊Linux的老鳥，想要一本資...more
+",https://www.books.com.tw/products/0010703090?loc=P_0003_031
+32,Linux系統管理專業應用國際認證實戰通關寶典,酆士昌,2015-09-30,"
+本書特別精選《Linux基礎系統管理專業應用國際認證LPIC-1實戰通關寶典》與《Linux進階系統管理專業應用國際認證LPIC-2實戰通關寶典》這兩本學習Linux系統管理的優質套書嘉惠讀者。我們讓您從本套書中，同...more
+",https://www.books.com.tw/products/0010690464?loc=P_0003_032
+33,Fedora Linux 系統管理與架站實務,施威銘研究室,2015-08-03,"
+從不會到會，Linux 一點都不難!   想學會 Linux 不一定要挑戰艱澀的指令, 親切的視窗環境, 有效降低學習門檻、建立信心, 讓你學 Linux 可以輕鬆、紮實, 又有效率!   ◆專為初學者設計, 完整實測、逐步示範...more
+",https://www.books.com.tw/products/0010685387?loc=P_0003_033
+34,Linux完全自學手冊：疑難排解全攻略,酆士昌,2015-04-03,"
+Binary與source有何差別?   指令路徑問題會造成安全問題嗎?   升級套件之後可以還原或降低版本嗎?   如果要升級舊有的Linux，有哪些需要注意的事項?   哪些是必要的file system?只劃出必要的分割區好嗎?  ...more
+",https://www.books.com.tw/products/0010670022?loc=P_0003_034
+35,Linux進階系統管理專業應用國際認證LPIC-2實戰通關寶典,酆士昌,2014-11-17,"
+成為Linux系統LPIC國際認證的資訊人才 為自己加分!!   考試流程&範圍詳述+重點整理&觀念剖析+指令與設定實作+模擬考題   本書是一本以應考LPIC Level 2為導向而設計的書籍，內容彙整考試的範圍的要點，並...more
+",https://www.books.com.tw/products/0010656041?loc=P_0003_035
+36,Ubuntu Linux：實務應用,施威銘研究室,2014-09-04,"
+Linux 是很多公司使用的系統, 使用最受歡迎的 Linux 發行版, 從不會到會, 本書是您取得 Linux 職場新技能的最佳選擇!   想學會 Linux 系統管理、架站, 不一定要挑戰艱澀的指令!以親切的視窗環境降低學習門...more
+",https://www.books.com.tw/products/0010648736?loc=P_0003_036
+37,Linux程式設計完全攻略：記憶體管理×檔案系統×多執行緒×網路×多媒體,"劉雍,呂光宏,楊宗德",2014-02-27,"
+重要觀念完整說明 學習進程精心設計   本書圍繞Linux作業系統「一切都是檔案」的特點，描述Linux作業系統下應用層「一段執行單元(處理程序)對系統資源(CPU、記憶體、磁碟、周邊與網路設備)的管理」，重點...more
+",https://www.books.com.tw/products/0010627763?loc=P_0003_037
+38,Linux Kernel Hacks：改善效能、提昇開發效率及節能的技巧與工具,"大岩尚宏,島本裕志等,池田宗広",2014-01-27,"
+Kernel 就是 OS 的核心。OS 的基本功能都是由 kernel 提供的。建立檔案、傳送封包等動作都是以 kernel 的功能完成。不過建立這些功能並不是單純的工作。儘管平常不會意識到，裡面深藏了許多高階技術。以檔...more
+",https://www.books.com.tw/products/0010624519?loc=P_0003_038
+39,Linux系統程式設計(第二版),Robert Love,2013-12-31,"
+內容涵蓋 Linux Kernel 3.0   『任何人只要是對 Linux 的應用程式撰寫有興趣，或是想要知道如何提高自己的程式設計技能，書架上都應該有一本《Linux 系統程式設計》。這是一本專業 Linux 程式員必讀的書籍...more
+",https://www.books.com.tw/products/0010621464?loc=P_0003_039
+40,Linux進化特區：Ubuntu 13.04 從入門到精通,翁卓立,2013-08-22,"
+要學會Ubuntu 13.04從入門到精通，就必須從基礎、應用、網路、進階，一一學起，開啟作業系統新紀元! 裝機+架站+多媒體，完整蒐錄!   Ubuntu 13.04 新特性：   嶄新設計：登入∕登出選單   同步選單：ubuntu...more
+",https://www.books.com.tw/products/0010595447?loc=P_0003_040
+41,Fedora 18 Linux 實務應用(附2片光碟片),施威銘研究室,2013-03-27,"
+Linux 是很多公司使用的系統, 從不會到會, 本書是您取得 Linux 職場新技能的最佳選擇!   想學會 Linux 不一定要挑戰艱澀的指令!親切的視窗環境, 有效降低學習門檻、建立信心, 學習 Linux 可以輕鬆、紮實, ...more
+",https://www.books.com.tw/products/0010581417?loc=P_0003_041
+42,嵌入式軟體Linux入門,温坤禮,2013-02-01,"
+Linux是個典型的巨集內核(一體化)結構，硬體系統上面是硬體介面，在硬體介面上面是內核服務功能模組，這些模組經由系統呼叫介面向用戶提供任務服務。而任務管理的系統包括：任務的創造、調度、終止及等待...more
+",https://www.books.com.tw/products/0010680001?loc=P_0003_042
+43,Linux進化特區：Ubuntu 12.04 從入門到精通,翁卓立,2012-06-01,"
+要學會Ubuntu 12.04從入門到精通，就必須從基礎、應用、網路、進階，一一學起。 Ubuntu 12.04 新特性：   -採用了最新的Linux Kernel 3.2.0；   -預設音樂播放器更換為Rhythmbox；   -預設......more
+",https://www.books.com.tw/products/0010546306?loc=P_0003_043
+44,Linux Networking 錦囊妙計,Carla Schroder,2011-10-17,"
+這是一本涉及範圍頗廣的實戰技巧彙整，涵蓋了作為Linux網路管理員需要瞭解的所有內容，無論您是新手還是具有多年經驗的資深人士。本書介紹了完成一系列任務的完整步驟，可以幫助您深入直接地掌握建立和維...more
+",https://www.books.com.tw/products/0010521969?loc=P_0003_044
+45,鳥哥的Linux私房菜：伺服器架設篇(第三版)(附光碟),鳥哥,2011-09-20,"
+書附光碟DVD*1   「鳥哥的Linux私房菜」突破1千萬人次上網瀏覽，是最超人氣的Linux技術教學網站!   本書前兩版均蟬聯電腦專業書籍Linux暢銷排行榜，最新第三版榮耀上市!   書內範例均經由鳥哥實際測試，再...more
+",https://www.books.com.tw/products/0010518734?loc=P_0003_045
+46,Linux 實戰手冊：入門.管理.架站(附1片光碟片)(2版),施威銘研究室,2011-08-26,"
+要真正學得 Linux 的精華, 文字模式是不二法門。學會了文字模式的操作, 所有 Linux 發行版, 甚至是其他 Unix-like 系統都可暢行無阻。   Linux 的文字模式雖然沒有圖形模式直覺, 但也絕不像坊間的書籍艱澀...more
+",https://www.books.com.tw/products/0010517905?loc=P_0003_046
+47,Ubuntu Linux網管手冊：網路服務、資通安全一手搞定,劉勇炫,2011-07-19,"
+由於Ubuntu Linux的易用性、快速開關機與不錯的桌面反應速度，使得它短短幾年內成為最受歡迎的一個Linux發行版套件。除此桌面環境的表現優越之外，Ubuntu Linux對各伺服器的整合也毫不含糊。希望本書的內...more
+",https://www.books.com.tw/products/0010512663?loc=P_0003_047
+48,Linux進化特區：Ubuntu 11.04從入門到精通,翁卓立,2011-06-19,"
+要學會Ubuntu 11.04從入門到精通，就必須從基礎、應用、網路、進階，一一學起。   基礎篇：從基礎打穩根基，輕鬆架設屬於自己的Ubuntu系統，配合簡便套件及視覺化的圖形操作介面，讓你執行指令零畏懼。新...more
+",https://www.books.com.tw/products/0010508372?loc=P_0003_048
+49,MIS網管實戰寶典：Linux老鳥這樣搞定機房大小事,田逸,2011-05-06,"
+本書深入而詳盡地介紹了網管架構中的各個環節。從網路規劃到伺服器的安裝這些基礎應用，再到負載均衡、分散式檔案系統的架構規劃，無所不包。更難能可貴的是，本書結合了作者在工作現場所累積的經驗，詳細...more
+",https://www.books.com.tw/products/0010505743?loc=P_0003_049
+50,Linux實戰特區：Ubuntu架站完全攻略,翁卓立,2011-03-13,"
+作者長期使用及推廣Ubuntu，並在此領域裡研究甚深，故本書延續作者知無不言的個性，書中巨細靡遺從伺服器架設理論到實務通通教授給讀者，而包括伺服器系統的工作原理、系統架設與管理、檔案與網路分享、郵...more
+",https://www.books.com.tw/products/0010499155?loc=P_0003_050
+51,Linux進化特區：Ubuntu 10.04從入門到精通,翁卓立,2010-07-11,"
+自2004年10月推出第一個版本以來，Ubuntu迅速成為Linux世界中一顆耀眼的新星，亦成功獲得所有Linux使用者的注目。截至目前為止，Ubuntu已經是眾多Linux發行版本中佔有率最高的一套。能夠在短短數年之間取...more
+",https://www.books.com.tw/products/0010474245?loc=P_0003_051
+52,Linux系統安全防護與建置(附光碟),楊振和,2010-05-03,"
+透過最完善的學習步驟，讓您按部就班的學習如何建築一個安全防護網於你的Linux作業系統中，讓運行於主機內的伺服器服務可以擁有妥善的保護。   *網路伺服器主機安全防護入門   *實戰 IPTABLES 防火牆建置...more
+",https://www.books.com.tw/products/0010469281?loc=P_0003_052
+53,XScale PXA310 嵌入式作業系統完整開發與實習-Embedded Linux (附DVD),麗臺科技嵌入式系統研發團隊,2010-01-01,"
+實驗課程：本書的第一及第二章將提供至少10個以上的實驗，可分別從系統平台的安裝、作業系統的燒錄、開發平台的使用等，讀完這兩章將會對PXA310處理器的強大功能、及Linux作業系統平台的使用，有一定程度...more
+",https://www.books.com.tw/products/0010460822?loc=P_0003_053
+54,ARM Linux核心嵌入式系統開發指南(附工具軟體光碟),蘇暉凱,2009-12-11,"
+《ARM Linux核心嵌入式系統開發指南》凝聚了作者12年的工作經驗和學習心得與體會，內容涵蓋了嵌入式系統Linux核心開發的各個方面。作者根據自己11年實戰的工作經驗，介紹了嵌入式系統的概念、組織架構、工...more
+",https://www.books.com.tw/products/0010458193?loc=P_0003_054
+55,Linux進化特區：Ubuntu 9.04 從入門到精通,翁卓立、PCuSER研究室,2009-06-23,"
+Ubuntu在推出8.04、8.10後，獲得廣大使用者的好評。在2009年新推出的Ubuntu 9.04，不僅核心版本更新，且能夠直接支援Ext4檔案系統，讓使用者不必再擔心想嘗試這個最新的檔案系統而不知從何進行起。除此之...more
+",https://www.books.com.tw/products/0010437771?loc=P_0003_055
+56,Linux 網路安全管理與監控 -- 馬上就能用的處方箋,施威銘研究室,2009-05-27,"
+忙碌的 MIS 沒有時間慢慢瞭解理論，可立即應用的實務技術才可提高工作績效!   本書針對安全與監控議題，完全實務導向，免除艱深理論及無用設定，step by step 照做就可解決問題。   ◆20 分鐘完成系統安全...more
+",https://www.books.com.tw/products/0010436854?loc=P_0003_056
+57,Linux進化特區-Ubuntu 8.04從入門到精通,翁卓立．PCuSER研究室,2008-05-17,"
+Ubuntu在推出7.04、7.10，獲得廣大使用者的好評。在2008年新推出的Ubuntu 8.04，不僅核心版本更新，能夠支援AMD64 CPU的dynticks節能技術，而且在安全性的保護上，也比以前更加嚴密。Ubuntu對於使用者修.....more
+",https://www.books.com.tw/products/0010401020?loc=P_0003_057
+58,Linux速學捷徑-Ubuntu 8.04高手制霸技,PCuSER研究室,2008-05-11,"
+在過去Linxu系統給人的印象，不外乎是介面不夠美觀、要熟記很多指令才能操作、雖然很穩定，但硬體相容性不好、缺乏足夠的應用程式，不像Windows有很多好用的應程式….等刻板印象。很多人雖然對Linux系統穩...more
+",https://www.books.com.tw/products/0010400607?loc=P_0003_058
+59,Linux進化特區-Ubuntu從入門到精通,翁卓立、楊順昌,2007-06-29,"
+你是否受夠了作業系統老是不穩當機、中毒、重灌，甚至當作業系統推出新版本，就必須將用了一陣子的電腦報廢，然後再花錢將硬體升級，好讓新的作業系統繼續浪費更多的資源?難道，除了忍受「當」、「毒」、...more
+",https://www.books.com.tw/products/0010370864?loc=P_0003_059
+60,Linux Fedora系統網路教學( 加強DVD與VCD版),吳佳諺,2005-07-13,"
+...more
+",https://www.books.com.tw/products/0010304675?loc=P_0003_060
+61,Linux Fedora架站教學(數位教學DVD),吳佳諺,2005-03-05,"
+...more
+",https://www.books.com.tw/products/0010286544?loc=P_0003_061
+62,Linux 指令詳解辭典,施威銘研究室,2004-12-10,"
+這幾年, 隨著 X Window 圖形介面的更加完善, 使得 Linux 急速竄起。但想要更得心應手地掌握 Linux 系統, 如果只會在 X Window 圖形介面下用滑鼠東按按、西按按, 那是絕對不夠的。Linux 的眾多指令, 就如同...more
+",https://www.books.com.tw/products/0010279709?loc=P_0003_062
+63,Linux Fedora架站教學(附光碟),吳佳諺,2004-07-31,"
+...more
+",https://www.books.com.tw/products/0010266973?loc=P_0003_063
+64,Linux Fedora實務教學(附光碟),吳佳諺,2004-07-14,"
+...more
+",https://www.books.com.tw/products/0010266974?loc=P_0003_064

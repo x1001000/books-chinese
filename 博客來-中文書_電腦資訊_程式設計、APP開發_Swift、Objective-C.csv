@@ -1,0 +1,79 @@
+,書名,作者,出版日期,內容介紹,網址
+1,人工智慧開發實務：使用Swift,"Jon Manning,Marina Rose,Paris Buttfield-Addison,Tim Nugent",2020-06-11,"
+從基礎理論到開發人工智慧驅動的App   『從長遠來看，絕大多數人工智慧將不會只在資料中心使用，而是在資料真正的所在處—數十億個真實世界的設備上。由於其速度和表現力的結合，Swift已經成為實現這一轉變...more
+",https://www.books.com.tw/products/0010860651?loc=P_0003_001
+2,iOS 13 App程式開發實務心法：30個製作專業級iOS App完全實戰攻略,Simon Ng,2020-03-11,"
+掌握廣受歡迎的教學內容的精髓   逐步實作出具有精美UI及實用功能、支援雲端資料傳輸的「Food Pin」App    作者公開多年來的iOS開發經驗，並集結廣受歡迎的iOS教學文章，以Swift 5.1與Xcode 11重新編寫，...more
+",https://www.books.com.tw/products/0010851322?loc=P_0003_002
+3,輕鬆學會iPhone APP實作開發：精心設計17個Lab讓你輕鬆上手,"張力元,黃士嘉",2020-01-13,"
+使用Xcode11 × Swift5 × iOS13開發   「BlueNet交通大平台」APP開發技巧大公開 × 逐步掌握範例的實作精髓   作者以自己開發的「BlueNet交通大平台」APP作為本書範例，解析此APP所使用的開發技巧。「......more
+",https://www.books.com.tw/products/0010844920?loc=P_0003_003
+4,圖解蘋果核心開發技術-Objective-C 物件導向程式設計極效攻略,傅志輝,2019-07-25,"
+蘋果作業系統核心語言   高效/高安全/極靈活   通用/進階/物件導向   Objective-C語言，以其高效性和安全性的特點在蘋果作業系統中經久不衰。   本書由淺入深，全面性、系統性介紹Objective-C開發技術，從...more
+",https://www.books.com.tw/products/0010829620?loc=P_0003_004
+5,iOS 12 App程式開發實務心法：30個製作專業級iOS App完全實戰攻略,Simon Ng,2019-01-02,"
+使用最新Xcode 10 × iOS 12 × Swift 4.2開發 知名iOS教學部落格AppCoda作家親授實作關鍵技巧讓你不NG   介紹iOS 12的新技術 × Step by Step實戰操作解說 × 做出具有設計感且支援雲端運......more
+",https://www.books.com.tw/products/0010809041?loc=P_0003_005
+6,Swift 學習手冊 (第三版),"Jon Manning,Paris Buttfield-Addison,Tim Nugent",2018-10-18,"
+在MacOS、iOS和其它平台上開發App   『Swift是Apple系統開發的未來，Jon、Paris和Tim透過豐富的平台及新語言學習之旅，帶領你為未來作好準備。』   —Dafydd Williams    Savagte Inte......more
+",https://www.books.com.tw/products/0010801934?loc=P_0003_006
+7,翻轉iOS：使用Swift開發感測器應用,關東升,2018-07-30,"
+本書介紹蘋果iOS 裝置主要的感測器應用程式開發的相關知識，其中包含手勢識別、加速度計、陀螺儀、指南針、磁力計、照相機、攝影機、音訊裝置存取、定位和藍牙通訊等。   全書包含內容：   iOS 中的手勢識...more
+",https://www.books.com.tw/products/0010794334?loc=P_0003_007
+8,iOS 11 App程式設計實戰心法：30個開發專業級iOS App的必學主題與實務講座,Simon Ng,2018-01-27,"
+使用最新Xcode 9 × iOS 11 × Swift 4開發   介紹iOS 11的新技術 × Step by Step實戰操作解說 × 做出具有設計感且支援雲端運用、地圖、3D Touch與使用者通知等功能的App × 支援最新的iP......more
+",https://www.books.com.tw/products/0010774865?loc=P_0003_008
+9,學會Swift4程式設計的21堂課,蔡明志,2018-01-26,"
+■以Swift 4程式語言開發iOS App   ■21堂課讓讀者掌握最新技術精髓   ■圖形解釋+豐富範例+課後練習輔助學習成效+iOS與OS X App實作   Swift是集合C與Objective-C大成的程式語言，較前述這兩種程式......more
+",https://www.books.com.tw/products/0010777081?loc=P_0003_009
+10,最快學會 Objective-C 定點突破攻略,傅志輝,2017-07-26,"
+Objective-C 語言，以其高效性和安全性的特點在蘋果作業系統中經久不衰。   本書由淺入深，全面、系統地介紹了Objective-C開發技術。從Objective-C 的基礎開始說明，一改程式設計書只有枯燥乏味的文字講解...more
+",https://www.books.com.tw/products/0010760663?loc=P_0003_010
+11,Swift - AR擴增實境與感應器開發,關東升,2017-04-26,"
+本書介紹蘋果iOS 裝置主要的感測器應用程式開發的相關知識，其中包含手勢識別、加速度計、陀螺儀、指南針、磁力計、照相機、攝影機、音訊裝置存取、定位和藍牙通訊等。 全書包含內容：   iOS 中的手勢識別...more
+",https://www.books.com.tw/products/0010751335?loc=P_0003_011
+12,Swift 3自學力!圖解146個iOS App開發範例，入門必備超直覺設計指南,魏巍,2017-04-22,"
+我的第一本Swift Cookbook：15堂輕鬆學會iOS App程式設計 *全圖解!程式概念到架構，用圖為你提點需要思考的設計環節! *低成本!開放源碼、豐富的資源共享，自學者一手包辦沒問題! *超快速!程式碼複製、貼上...more
+",https://www.books.com.tw/products/0010746730?loc=P_0003_012
+13,Swift 程式設計必學基礎(二版),Boisy G. Pitre,2016-08-25,"
+“Boisy Pitre成功的將參與Macintosh開發專案以及為MacTech雜誌撰寫專欄經驗融合在一起，帶給我們有用且易懂的Apple Swift程式語言教學。” - Bill Cheeseman, Vermont Mac和Apple......more
+",https://www.books.com.tw/products/0010725591?loc=P_0003_013
+14,該是開發蘋果程式的時候了：使用Objective-C,傅志輝,2016-05-25,"
+Objective-C 語言，以其高效性和安全性的特點在蘋果作業系統中經久不衰。   本書由淺入深，全面、系統地介紹了Objective-C開發技術。從Objective-C 的基礎開始說明，一改程式設計書只有枯燥乏味的文字講解...more
+",https://www.books.com.tw/products/0010716026?loc=P_0003_014
+15,Swift自學力!圖解140個iOS App開發範例，給新手的超直覺設計指南,魏巍,2016-04-21,"
+你有發現寫程式碰到問題、上網找資料的時候越來越難找到 Objective C 的作法了嗎?該轉換到Swift了…   Swift入門自學一次就搞懂，輕鬆學會iOS App程式設計。   140套以上專案程式碼，拷貝貼上立即運用!   ...more
+",https://www.books.com.tw/products/0010712089?loc=P_0003_015
+16,iOS Swift 遊戲程式開發錦囊妙計 第二版,"Jonathon Manning,Paris Buttfield-Addison",2016-01-29,"
+遊戲開發問題的簡明解法 「對於想要製作突出的iOS遊戲的開發人員而言，本書是寶貴的資源，內容涵蓋遊戲引擎的設計原則與iOS運用的具體細節。」 ——Jonathan Adamczewski，Insomniac Games遊戲引擎設計師   ...more
+",https://www.books.com.tw/products/0010704442?loc=P_0003_016
+17,Swift 設計模式,Adam Freeman,2015-10-28,"
+使用Swift開發iOS應用程式的經典設計模式   Swift程式設計語言改變了iOS開發，並開啟了現代Cocoa開發的新紀元。本書為您展示如何在應用程式中發揚Swift設計模式的威力與彈性，讓你成為專案開發的大師。   ...more
+",https://www.books.com.tw/products/0010694926?loc=P_0003_017
+18,Swift從入門到超人氣遊戲App開發全面修鍊實戰(附近100段影音教學、Swift 2.0/1.2/1.1範例檔),柯博文,2015-09-23,"
+附DVD一片   [嚴選經典]美國矽谷創業家/全球數十家科技大廠與業界指定講師之Swift技術與遊戲開發入門鉅作   達人等級、觸手可及!   本書是針對對Swift有興趣的程式開發者或想以Swift開發遊戲設計者而編寫...more
+",https://www.books.com.tw/products/0010690527?loc=P_0003_018
+19,iOS 8 Swift Programming 錦囊妙計,Vandad Nahavandipoor,2015-05-27,"
+iOS App 的解決方案及範例 涵蓋 Xcode 6   「不管是使用 iOS 的新功能編寫程式，或是處理複雜的需求，Vandad 的《iOS Programming 錦囊妙計》總是能夠提供我所需的資源，以及優良、條理分明且實用的範例。...more
+",https://www.books.com.tw/products/0010676339?loc=P_0003_019
+20,從零開始學Swift程式設計,莊智佐,2014-12-31,"
+蘋果軟體工程副總裁Craig Federighi：「未來希望能以Swift取代Objective-C與Python等程式語言。」   Swift，是一項專門為了Cocoa〔為OS X平台的應用程式介面(API)〕及Cocoa Touch〔為......more
+",https://www.books.com.tw/products/0010661357?loc=P_0003_020
+21,Swift 開發指南,"趙志榮,關東升",2014-12-18,"
+分層架構設計解決Swift與Objective-C混合搭配問題   「《Swift開發指南》一書結構清晰，內容豐富，提供大量的範例程式和豐富圖示全面講解Swift語言開發，透過實務案例説明協助讀者系統化的理解書中內容。...more
+",https://www.books.com.tw/products/0010659618?loc=P_0003_021
+22,學會Objective-C的24堂課(第三版),蔡明志,2014-06-03,"
+內容針對XCode 5.x與iOS 7全新改版!   iOS開發完全升級，就從這裡開始   24堂課教您學會Objective-C   成為最夯的iPhone與iPad軟體設計師   基礎篇 講述變數與資料型態，輸出與輸入，運算子，迴圈敘述......more
+",https://www.books.com.tw/products/0010637639?loc=P_0003_022
+23,Effective Objective-C 2.0 中文版,Matt Galloway,2013-11-28,"
+改善iOS與OS X程式的52個具體做法 使用Objective-C 2.0撰寫出真正美妙的iOS與OS X程式碼!   《Effective Objective-C 2.0中文版》將幫助您充分運用Objective-C的強大表述能力(ex......more
+",https://www.books.com.tw/products/0010618008?loc=P_0003_023
+24,Cocoa學習手冊：使用Objective-C(第三版),Paris Buttfield-Addison 等,2013-06-13,"
+OS X 與 iOS應用程式開發 涵蓋Xcode 4.2與iOS 6   「假如你對iOS或OS X應用程式開發有興趣，這本書絕對是幫助你展開似錦前程的最佳指南。Jon與Paris已經將其廣博深厚的Cocoa開發功力徹底融入這本扎實且易...more
+",https://www.books.com.tw/products/0010588996?loc=P_0003_024
+25,SPC Web Apps 使用手冊,官生平,2012-03-01,"
+近年來SPC的應用在電腦的輔助下，著實有普遍應用的效果，但是SPC相關數據之在地化，著手SPC Web Apps 雲端運算軟體的開發，經團隊成員的投入開發測試，至今已到推廣到業界應用的階段，特編著本使用手冊以...more
+",https://www.books.com.tw/products/0010576310?loc=P_0003_025
+26,Objective-C 與 iOS 開發入門,Michael Pan,2011-08-23,"
+本書適合學過C語言、了解Pointer用法的讀者。從Objective-C的語法開始帶領讀者進入開發iPhone或iPad的世界，並利用Xcode 4工具完成範例，強化實務能力。   Objective-C的記憶體管理機制、所有權概念、委任...more
+",https://www.books.com.tw/products/0010517912?loc=P_0003_026

@@ -1,0 +1,61 @@
+,書名,作者,出版日期,內容介紹,網址
+1,網站可靠性工程工作手冊|導入SRE的實用方法,"Betsy Beyer,Dave Rensin,Kent Kawahara,Niall Richard Murphy,Stephen Thorne",2020-09-29,"
+《網站可靠性工程》曾在業界引爆一陣探討現代生產服務運行的意義，以及為何可靠性考量是服務設計的基礎的熱潮。現在，這本熱銷書的原班人馬，再度推出了一本實戰手冊。以具體的案例，說明如何將SRE的原則...more
+",https://www.books.com.tw/products/0010871552?loc=P_0003_001
+2,IT進階修煉：Kubernetes容器雲全方位應用,"何通,劉曉紅,吳治輝,崔秀龍,趙玲麗,閆健勇,龔正",2020-08-24,"
+本書以容器技術為核心，對容器雲端平台的各個功能元件進行詳細的技術架構設計，並對開源軟體進行選型建議及應用場景分析，為容器雲端平台的具體實現提供建議。書中的許多範例都可以在《Kubernetes權威指南...more
+",https://www.books.com.tw/products/0010867990?loc=P_0003_002
+3,下世代超前佈署：用 Zabbix全面監管巨量伺服器,吳兆松,2020-08-20,"
+◎ 第一本Zabbix完整說明手冊   ◎ 完全掌握Zabbix監控系統的核心技術   本書重點   ► 系統當機不用怕被老闆罵，造成損失前就修復好，只有Zabbix做得到   ► 全面監控硬體、作業系統、網路、軟體、應用程式，...more
+",https://www.books.com.tw/products/0010866950?loc=P_0003_003
+4,Kubernetes最佳實務,"Brendan Burns,Dave Strebel,Eddie Villalba,Lachlan Evenson",2020-06-22,"
+四位在分散式系統、企業應用程式開發與開放原始碼方面具有豐富經驗的Kubernetes專家，將在這本書中與您分享實務上導入Kubernetes的過程。對於已經具備Kubernetes基礎概念，希望在實務運用上有更多了解的人...more
+",https://www.books.com.tw/products/0010861320?loc=P_0003_004
+5,現在學正是時候：用Docker+Kubernetes建立永續叢集服務,羅利民,2020-06-21,"
+還在用虛擬機器?是時候開始用Docker了   未來五年領導雲端運算發展的核心技術必然是容器技術。現在越來越多的IT公司逐漸拋棄傳統的虛擬化技術，而轉向輕量化的容器技術。   主流雲端服務商已經開始支援Doc...more
+",https://www.books.com.tw/products/0010860781?loc=P_0003_005
+6,Kubernetes：建置與執行(第二版),"Brendan Burns,Joe Beda,Kelsey Hightower",2020-06-10,"
+Kubernetes是當紅的容器叢集管理工具。在過去幾年內，容器叢集管理工具大幅改變開發跟維運人員在雲端環境中開發、建構、部署和維護應用程式的方法。不論你是剛剛接觸分散式系統，或著正在使用雲端環境部署...more
+",https://www.books.com.tw/products/0010860536?loc=P_0003_006
+7,IT進階修煉：從Docker到Kubernetes 實作指南,"劉曉紅,吳治輝,崔曉甯,崔秀龍,王偉,閆健勇,龔正",2020-05-04,"
+本書作者全部來自惠普公司雲端運算實作第一線，擁有豐富Kubernetes實戰經驗，對Kubernetes這個複雜的系統進行精闢的分析和解剖。   全書闡述Kubernetes的基本概念，共分為六大章節，涵蓋了入門、實作指南...more
+",https://www.books.com.tw/products/0010856921?loc=P_0003_007
+8,史上最完整細節：Kubernetes超應用全書,"吳治輝,崔秀龍,閆健勇,龔正",2020-03-19,"
+容器化技術已經成為運算模型演化的開端，Kubernetes作為Google 開放原始碼的Docker 容器叢集管理技術，在這場新的技術革命中扮演著重要的角色。Kubernetes 正在被許多知名公司及企業採用，Kubernetes 已站...more
+",https://www.books.com.tw/products/0010851698?loc=P_0003_008
+9,網路代理人理論與實務設計寶典,"林志敏,林正敏,竇其仁",2020-03-01,"
+網路代理人中文教科書   全彩投影片檔案提供教學   網路代理人是一個可被分派進行網路應用與服務工作的軟體，和傳統軟體不同之處，在於其具有自主性、溝通、合作與學習能力等特性。   本書文字淺顯易懂，...more
+",https://www.books.com.tw/products/0010853740?loc=P_0003_009
+10,PowerBuilder 應用程式設計寶典,方榮久,2020-01-01,"
+◎ 由淺入深，適合 PowerBuilder 初學者   ◎ PowerBuilder、.NET 不需要選邊站   ◎ 台灣 Sybase 公司、倍力資訊強力推薦   ◎ 本書作者擁有 PowerBuilder 的專業認證   ◎ 附贈 P......more
+",https://www.books.com.tw/products/0010849722?loc=P_0003_010
+11,IXP425 網路處理器設計寶典,"鄭伯炤,黃崇明",2019-10-01,"
+「關鍵語法與物件導向觀念解說」   「範例引導教學，功能逐一詳解!」   隨著網路發展的日漸成熟，各種網路協定和網路應用也不斷推陳出新，在設計各種網路系統時，「網路處理器」提供一套多元化的解決問題...more
+",https://www.books.com.tw/products/0010838254?loc=P_0003_011
+12,Practical Network Automation中文版：使用Python、Powershell、Ansible實踐網路自動化,Abhishek Ratan,2019-03-11,"
+網路自動化，不再肝硬化   網路自動化是利用IT來管理並維護日常網路管理功能的好用工具，它在網路虛擬化中扮演了關鍵角色。本書將說明網路自動化、SDN及其相關應用，包含如何整合DevOps工具來達成網路自動...more
+",https://www.books.com.tw/products/0010815302?loc=P_0003_012
+13,Kubernetes錦囊妙計,"Michael Hausenblas,Sébastien Goasguen",2018-12-13,"
+如果你正準備要轉移為雲端原生運算架構，這本錦囊妙計會告訴你如何成功地運用Kubernetes。這套軟體已公認是關於自動化部署、自動調整、以及管理容器化應用程式的實質標準。書中涵蓋超過80種實用的招式，不...more
+",https://www.books.com.tw/products/0010807758?loc=P_0003_013
+14,容器進化革命：Kubernetes重新定義資訊世紀：Kubernetes權威指南,"劉曉紅,吳治輝,崔曉甯,崔秀龍,王偉,閆健勇,龔正",2018-11-13,"
+本書作者全部來自惠普公司雲端運算實作第一線，敏銳地捕獲和探索著各種IT前瞻技術，有著全面而扎實的技術架構體系、對創新技術天生的熱情、國際技術領先者的視野，還有著對企業級IT架構的深入把握。   本...more
+",https://www.books.com.tw/products/0010803899?loc=P_0003_014
+15,百億造訪還能正常運作：全球最大購物網站技術公開,張開濤,2018-08-08,"
+透過梳理大型網站技術發展歷程，剖析大型網站技術架構模式，深入講述大型互聯網架構設計的核心原理，並透過一組典型網站技術架構設計案例，為讀者呈現一幅包括技術選型、架構設計、性能優化、Web安全、系...more
+",https://www.books.com.tw/products/0010794640?loc=P_0003_015
+16,從Paxos到Zookeeper：分散式一致性原理與實例,倪超,2018-01-08,"
+■系統講解ZooKeeper這一應用廣泛、成熟的分散式協調架構的技術書   ■原理深入，清楚說明ACID、CAP、BASE，2PC/3PC協定，Paxos、ZAB協定等熱門話題   ■徹底剖析分散式一致性問題，並提出相應解決方案和實戰...more
+",https://www.books.com.tw/products/0010774358?loc=P_0003_016
+17,網站可靠性工程：Google的系統管理之道,"Betsy Beyer,Chris Jone,Jennifer Petoff,Niall Murphy",2017-11-15,"
+大型軟體系統生命週期的絕大部分都處於「使用」階段，而非「設計」或「實現」階段。那麼，為何我們總是認為軟體工程應該首要關注設計和實現呢?   Google SRE團隊的核心成員在本書中分享了他們是如何對軟體...more
+",https://www.books.com.tw/products/0010770752?loc=P_0003_017
+18,撐起14億人電商的技術機密：用Paxos及ZooKeeper打造分散叢集,倪超,2016-09-30,"
+■系統講解ZooKeeper這一應用廣泛、成熟的分散式協調架構的技術書   ■原理深入，清楚說明ACID、CAP、BASE，2PC/3PC協定，Paxos、ZAB協定等熱門話題   ■徹底剖析分散式一致性問題，並提出相應解決方案和實戰...more
+",https://www.books.com.tw/products/0010730143?loc=P_0003_018
+19,PowerBuilder 12 共好 .NET(附DVD一片),方榮久,2013-12-01,"
+隨著 Java與 .NET兩大技術的崛起，PowerBuilder的市場有逐漸式微的現象，但卻依然在應用程式的開發工具市場上占有一席之地。直到 PowerBuilder 12 .NET的問世，徹底擺脫傳統PowerBuilder 使用者在技......more
+",https://www.books.com.tw/products/0010621841?loc=P_0003_019
+20,PowerBuilder 12 共好 .NET (附試用版),方榮久,2010-11-01,"
+隨著 Java與 .NET兩大技術的崛起，PowerBuilder的市場有逐漸式微的現象，但卻依然在應用程式的開發工具市場上占有一席之地。直到 PowerBuilder 12 .NET的問世，徹底擺脫傳統PowerBuilder 使用者在技......more
+",https://www.books.com.tw/products/0010488684?loc=P_0003_020

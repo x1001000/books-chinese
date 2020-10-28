@@ -1,0 +1,277 @@
+,書名,作者,出版日期,內容介紹,網址
+1,拉近和大神之間的差距：從閱讀MyBatis原始程式碼開始,易哥,2020-10-21,"
+利用Java的ORM架構----MyBatis，向神人們致敬!    MyBatis有三個主要套件，包括了核心、解析、操作，這些概念完整收錄在本書五大篇26章中。    第一篇從背景開始介紹，初探MyBatis。   第二篇介紹基本功能...more
+",https://www.books.com.tw/products/0010873129?loc=P_0003_001
+2,Java最強入門邁向頂尖高手之路：王者歸來(第二版)全彩版,洪錦魁,2020-10-15,"
+很早就想改版第一版的書籍，歷經多時的醞釀與投入，終於完成這本書著作的改版，心情是愉快的，因為我相信只要讀者購買本書遵循本書實例，一定可以輕輕鬆鬆快快樂樂學會Java語法與應用，逐步讓自己往Java頂...more
+",https://www.books.com.tw/products/0010873110?loc=P_0003_002
+3,晉升成HTTP一代宗師：用java實作(好評絕賣版),肖佳,2020-09-28,"
+HTTP封包截取利用Fiddler封包截取工具來捕獲HTTP資料包，然後進行重發、編輯等操作。HTTP封包截取的用途非常廣泛，主要用於Web開發偵錯、軟體自動化測試、介面自動化測試、性能測試和網路爬蟲等方面。也用...more
+",https://www.books.com.tw/products/0010871876?loc=P_0003_003
+4,Spring Boot情境式網站開發指南：使用Spring Data JPA、Spring Security、Spring Web Flow,曾瑞君,2020-06-19,"
+使用全Spring框架建構新一代企業級網站! 本書一次蒐錄所有技能!   如何讓網站使用者有更佳的體驗一直是歷久不衰的話題。使用Spring Web Flow框架讓使用者在預先定義好的情境裡，逐步被引導完成複雜操作，...more
+",https://www.books.com.tw/products/0010861324?loc=P_0003_004
+5,Java SE 14 技術手冊,林信良,2020-06-12,"
+‧涵蓋Java 14正式釋出特性   ‧深入Java模組平臺系統   ‧探討Unicode與規則表示式   ‧提供Lab實作檔案   ‧作者十幾年實務教育訓練中，匯整學員遇到的觀念、實作、應用等問題的經驗集合。   ‧詳細介紹Java 9...more
+",https://www.books.com.tw/products/0010860653?loc=P_0003_005
+6,Java 武功祕笈,何英治,2020-06-01,"
+密集式範例學習最有效， 關鍵語法與物件導向觀念解說!   目前Java的應用範圍除了Internet的Web開發領域之外，它還具備一般程式語言的全部功能，甚至可能更強。例如：在企業級應用環境中，如金融、電信、保...more
+",https://www.books.com.tw/products/0010864524?loc=P_0003_006
+7,資料結構：使用Java,李淑馨,2019-12-25,"
+本書以淺顯易懂的方式，透過圖文並茂、圖解說明豐富的內容，讓您學習如何設計良好的資料結構及演算法，進而設計高效率的程式。詳盡解說各種資料結構，讓讀者掌握資料結構的精髓。  本書特色    資料結構的...more
+",https://www.books.com.tw/products/0010844911?loc=P_0003_007
+8,猛虎再臨!MTA Java 國際專業認證 (Microsoft Exam：98-388),段維瀚,2019-10-02,"
+MTA 98-388 Java初階軟體開發人員認證   ‧Java初階軟體開發人員必備認證   ‧幫助Java初階開發者在人群中脫穎而出，協助通往更高階教育和職涯前景   Microsoft Technology Associate(MTA......more
+",https://www.books.com.tw/products/0010835656?loc=P_0003_008
+9,Java SE 12基礎必修課(適用Java 12~10，涵蓋OCJP與MTA Java國際認證),"何嘉益,張力元,張志成,蔡文龍",2019-10-02,"
+※專家與教師共同執筆   由OCJP(原SCJP)與MTA Java認證講師、科技大學教授程式設計教師共同編著，針對初學者學習程式設計所編寫的入門教材。   ※程式設計的技能養成   內容兼具理論與實務、範例操作皆以圖...more
+",https://www.books.com.tw/products/0010835659?loc=P_0003_009
+10,掌握Java SE11程式設計,陳錦輝,2019-07-31,"
+自從Oracle接手Java的發展之後，Java開始了天翻地覆的變化，加入了許多新功能，這些新功能都是為了跟上最新流行的程式語言與新型態的發布、維護架構。其中最重要的就是SE8的Lambda運算式與SE9的模組(modul...more
+",https://www.books.com.tw/products/0010829401?loc=P_0003_010
+11,Java RWD Web企業網站開發指南|使用Spring MVC與Bootstrap,曾瑞君,2019-07-29,"
+行動應用大趨勢，企業網站新主流   由前端到後端，由基礎程式到應用框架，本書一次蒐錄!   行動應用的潮流裡，隨著前端技術的成熟，響應式網頁設計(RWD)為企業提供比APP更快速、更具成本競爭力的解決方案...more
+",https://www.books.com.tw/products/0010829294?loc=P_0003_011
+12,持續交付|使用Java,"Abraham Marín-Pérez,Daniel Bryant",2019-07-12,"
+將程式部署至生產環境的必備工具與最佳做法   “除了《Effective Java 3rd Edition》外，這本書是我的每位工程師都會購買的書籍，而且它將帶來千倍的回報!”   —Martijn Verburg   jClarity與L......more
+",https://www.books.com.tw/products/0010827465?loc=P_0003_012
+13,王者歸來：Java全端技術領航 從零基激升高超工程師一本通,QST青軟實訓,2019-06-25,"
+◆ 涵蓋Java眾多特性   ◆ 基礎紮實/高階深入   ◆ 重點突出/強化技術   ◆ 著重實作/高效掌握   本書由淺入深從Java基礎程式設計到高階應用進行深入剖析和講解，內容涵蓋Java概述、物件導向基礎、核心類別、...more
+",https://www.books.com.tw/products/0010826230?loc=P_0003_013
+14,最新 Java 程式設計(第六版),施威銘研究室,2019-06-14,"
+15 年的淬鍊，成就「初學 Java 的最佳入門教材」   本書從第一版規劃寫作至今已 15 個年頭，期間配合 Java 版本的演進歷經多次改版，每次改版都匯集了眾多讀者、教師的意見，適當增加了新的題材與語法，同...more
+",https://www.books.com.tw/products/0010824846?loc=P_0003_014
+15,Java網路程式設計寶典,"吳宗靜,施嘉佶,賈蓉生",2019-05-01,"
+「關鍵語法與物件導向觀念解說」   「一學就受用的網路程式設計書」   輕鬆入門+熟練實作+問題導向+原文接軌，範例學習最有效!   生活在現在科技發達的時代，電腦已是我們生活的基本配備，尤其我們想要把...more
+",https://www.books.com.tw/products/0010823091?loc=P_0003_015
+16,輕鬆學會：運算思維與Java語言設計基礎實務,陳德來,2019-01-08,"
+市面上關於Java 程式設計的書籍琳瑯滿目，本書結合運算思維與演算法的基本觀念，並以Java 語言來實作演算法，為了降低讀者的學習障礙，本書範例都是完整的程式碼，以實作來引導觀念、注重範例的質與量為主...more
+",https://www.books.com.tw/products/0010809753?loc=P_0003_016
+17,輕鬆學會：運算思維與Java SE 11程式設計實例,吳燦銘,2018-12-25,"
+讓你瞭解如何撰寫Java程式，更在於讓你瞭解什麼是物件導向?以及如何以Java的觀點思考與實作物件導向   ● 本書編譯環境採用最單純的JDK 11，只要使用記事本就可輕鬆編輯Java程式。   ● 結合國內外程式語言...more
+",https://www.books.com.tw/products/0010809745?loc=P_0003_017
+18,Java SE11與Android 9.x程式設計範例教本,陳會安,2018-12-24,"
+★學習Java、物件導向和Android應用程式開發的最佳入門教材 ★使用官方Android Studio整合開發環境建立Android應用程式   Android應用程式開發是目前當紅的軟體開發領域，對於不熟悉Java語言和Android......more
+",https://www.books.com.tw/products/0010808819?loc=P_0003_018
+19,從零開始!Java 程式設計入門,洪國勝,2018-08-15,"
+大量範例+實作練習+遊戲專案, 密集式範例學習最有效!   主題最完整!保證紮穩物件導向程式設計基礎!   Java 是目前業界使用最廣泛的程式語言，學習 Java 可說是投資報酬率最高的選擇!作者任教程式設計 30 ...more
+",https://www.books.com.tw/products/0010795433?loc=P_0003_019
+20,全民學程式設計：從插畫學 Java,"Ltd.),株式会社アンク (ANK Co.",2018-07-19,"
+Java 至今仍是擁有廣大使用者的第一線程式語言。從用戶端、伺服器環境開始，直到近年來Android 應用程式的開發，Java 都被廣泛地運用。Java 最大的特色就是「物件導向」，這是一種將程式功能群組化，並且...more
+",https://www.books.com.tw/products/0010793049?loc=P_0003_020
+21,Java 資料科學：科學與工程實務方法,Michael Brzustowicz,2018-06-08,"
+“終於出了一本以Java實作資料科學應用程式的書，且它還討論到機器學習所需的線性代數與統計。這本書是Michael Brzustowicz在這個領域中經驗的精華，我強力推薦”。 --Terence Parr 舊金山大學分析學院創辦...more
+",https://www.books.com.tw/products/0010789004?loc=P_0003_021
+22,動態網頁程式開發精粹：Java + JSP +SQL Server 2017,余顯強,2018-06-04,"
+關鍵的Java程式語言基礎   完整的Java最新版本程式語言語法，包括物件導向基礎、程式語言觀念、程式撰寫的技巧。特別強調物件導向程式運作的原理，提供爾後學習其他程式語言時能夠輕鬆地接軌。   最佳的JS...more
+",https://www.books.com.tw/products/0010789172?loc=P_0003_022
+23,Java入門邁向高手之路-王者歸來,洪錦魁,2018-05-31,"
+● 完全征服最新版Java從入門到精通。   ● 第一本彩色Java書。   ● 300張圖解說明，600個程式實例，完全解析Java。   這本書將在北京清華大學與台灣深石數位科技同步發行，這是中文第一本全彩Java圖書，這...more
+",https://www.books.com.tw/products/0010788538?loc=P_0003_023
+24,圖解資料結構：使用Java(第三版),"吳燦銘,胡昭民",2018-05-18,"
+這是一本如何將資料結構概念以Java程式語言實作的入門書。特色在於將複雜的理論以圖文並茂的方式解說和詮釋。首先從基本的資料結構概念開始，接著陸續以Java語言闡述陣列結構、鏈結串列、堆疊、佇列、樹狀...more
+",https://www.books.com.tw/products/0010787519?loc=P_0003_024
+25,INTRODUCTION TO JAVA PROGRAMMING: COMPREHENSIVE VERSION 11/E (GE),LIANG,2018-05-16,"
+This text is intended for a 1-semester CS1 course sequence. The Brief Version contains the first 18 chapters of the Comp......more
+",https://www.books.com.tw/products/0010789801?loc=P_0003_025
+26,最新 Java 程式語言(第五版),施威銘研究室,2018-05-02,"
+15 年的淬鍊，成就「初學 Java 的最佳入門教材」   本書從第一版規劃寫作至今已 15 個年頭, 期間配合 Java 版本的演進歷經多次改版, 每次改版都彙集眾多讀者和教學單位的意見, 讓書中內容更簡明易懂、更符...more
+",https://www.books.com.tw/products/0010785554?loc=P_0003_026
+27,王者歸來：Java從基礎到高階應用與開發,QST青軟實訓,2018-04-02,"
+.涵蓋Java最新特性   .從基礎到高階深入講解   本書由淺入深從Java基礎程式設計到高階應用進行深入剖析和講解，內容涵蓋Java概述、物件導向基礎、核心類別、類別之間的關係、抽象類別和介面、例外、泛型與...more
+",https://www.books.com.tw/products/0010783660?loc=P_0003_027
+28,Think Data Structures：Java演算法實作和資料檢索,Allen B. Downey,2018-03-31,"
+“一本極好又務實的資料結構入門書籍，讓讀者擁有剛好的理論知識以進行演算法分析，同時兼顧實際應用。”-Barry Wittman Associate Professor Elizabethtown College   “經由閱讀本書，讀者進入......more
+",https://www.books.com.tw/products/0010782975?loc=P_0003_028
+29,現代 Java：輕鬆解決 Java 8 與 9 的難題,Ken Kousen,2018-03-31,"
+“想知道如何使用最新版的Java來處理日常工作嗎?答案在這本書中。Ken Kousen快速地說明幾種常見的問題，並將解決方案簡化，讓我們可以輕鬆地使用它。-Dr. Venkat Subramaniam Agile Developer公司創辦......more
+",https://www.books.com.tw/products/0010782976?loc=P_0003_029
+30,Java 9 模組化：可維護應用程式的開發模式與實務,"Paul Bakker,Sander Mak",2018-02-14,"
+“這本書提供建立Java 9模組化應用程式必備的實用知識。如果你是開發者或架構師，想要運用近年來最重要的JDK功能，這是一本必讀的書籍。”   —Simon Maple   ZeroTurnaround，Developer Relation......more
+",https://www.books.com.tw/products/0010779563?loc=P_0003_030
+31,Java SE 9 技術手冊,林信良,2017-12-22,"
+‧提供Java 9新功能快速索引 ‧深入探討Java模組平臺系統 ‧JDK基礎與IDE操作交相對照 ‧提供Lab實作檔案   ‧作者數年來實務教育訓練中，匯整學員在課程中遇到的觀念、實作、應用或認證考試上等問題之經驗集合...more
+",https://www.books.com.tw/products/0010773787?loc=P_0003_031
+32,新觀念 Java 9 程式設計範例教本,陳會安,2017-12-13,"
+學習物件導向程式設計的最佳入門教材   學習 Java 只會語法是不夠的, 沒有搞懂物件導向, 很難進入 Java 的世界。   本書從最基礎的流程控制切入, 訓練讀者的邏輯運算思維, 再循序漸進 Java 程式設計觀念、...more
+",https://www.books.com.tw/products/0010772972?loc=P_0003_032
+33,Java 入門與應用(附VCD一片),"吳宗靜,施嘉佶,賈蓉生",2017-12-01,"
+本書特色   生活在現在科技發達的時代，電腦已是我們生活的基本配備，尤其我們想要把電腦學好的電腦人，最終是要達到網路層次，才算對得起自己，除了使用他人設計之網路工具，也應建立自己設計網路工具之...more
+",https://www.books.com.tw/products/0010774907?loc=P_0003_033
+34,資料結構：使用JAVA(精裝本)(附範例光碟),蔡明志,2017-10-13,"
+「資料結構」在資訊學科中是一門重要的課程。本書的內容依不同的主題共分為14章，在各章的每一小節中均附有練習題及類似題，旨在讓讀者測試對該小節所談及的內容是否已全盤了解。在各章末有「動動腦時間」...more
+",https://www.books.com.tw/products/0010770369?loc=P_0003_034
+35,入門首選Java程式設計附範例檔(最新版),勁樺科技,2017-09-13,"
+1.一本適合中學生的入門書，講述的內容以基礎語法為主。   2.各章安排了習題，可以驗收學習成效。   3.透過有趣且多樣的簡易範例小程式，輕鬆學會Java程式語言的入門語法。   4.綜合範例的練習機會，希望...more
+",https://www.books.com.tw/products/0010765470?loc=P_0003_035
+36,物件導向程式設計：結合生活與遊戲的JAVA語言(附範例光碟),邏輯林,2017-09-11,"
+本書累積作者多年教學及實務經驗，引入生活中的事物，對照程式中的邏輯概念，讓初學者對物件導向程式設計有概念。書中所附的程式範例，均為具實用性的生活例子，讓初學者免去浪費在已有的基本需求功能的思...more
+",https://www.books.com.tw/products/0010767435?loc=P_0003_036
+37,Java與樂高機器人的完美CP組合,"鄭劍春,魏曉暉",2017-07-25,"
+本書介紹的是一門操控樂高機器人的語言—leJOS，它源自於Java語言，並對機器控人制部分進行了封裝和最佳化。   從Java程式設計的基礎知識講起，進一步介紹機器人程式設計需要用到的各種類，例如LCD、Motor...more
+",https://www.books.com.tw/products/0010760510?loc=P_0003_037
+38,打造可維護軟體：編寫可維護程式碼的10項法則 (Java版),Joost Visser,2017-06-30,"
+「這些指導方針正確無誤，以簡單明瞭、切實可行的方式，闡述高效開發者如何一貫地撰寫及交付高品質的程式碼。」 — George Marinos, 應用程式架構師, 希臘國家銀行   你可曾在修改他人程式碼時深感挫折與沮...more
+",https://www.books.com.tw/products/0010756845?loc=P_0003_038
+39,資料結構：使用Java(第四版),蔡明志,2017-06-14,"
+資料結構(Data Structures)是資訊學科中的核心課程之一，也是基礎和必修的科目。本書確實闡述資料結構的重要主題，並以圖文並茂的方式表達，最能達到教學與學習事半功倍的效果。   內容共分十三章，分別為...more
+",https://www.books.com.tw/products/0010755171?loc=P_0003_039
+40,JAVA程式設計藝術(第十版)(國際版)(附範例光碟),張子庭,2017-03-07,"
+1.本書的核心是Deitel 的招牌特色「程式碼實況解說 (live-code approach)」我們會使用完整可運作的程式來說明概念，而非只有片段的程式碼。每個完整的程式碼範例，都伴隨著實際的範例執行。   2.本書也適...more
+",https://www.books.com.tw/products/0010749106?loc=P_0003_040
+41,完美調和 Eclipse RCP 與 Spring OSGi 技術詳解,陸陽,2016-11-25,"
+資深的Eclipse專家親自執筆，Eclipse官方技術社區推薦，權威性毋庸置疑。   內容全面，有系統地講解利用Eclipse RCP和Spring OSGi開發大規模Java應用程式的核心技術。   實戰性強，包含大量易於操作的案例...more
+",https://www.books.com.tw/products/0010737212?loc=P_0003_041
+42,Java動態模組系統的唯一選擇：Equinox OSGi原理及實作,"周志明,謝小明",2016-10-28,"
+自從1999 年OSGi 聯盟成立以來，OSGi 技術隨著Java 一起高速發展，現已經成為一種被廣泛認可的軟體架構技術和方法。許多世界著名的IT 企業都加入到OSGi 的陣營之中，這些軟體廠商推出的許多產品都支援OSGi...more
+",https://www.books.com.tw/products/0010734376?loc=P_0003_042
+43,最新 Java 8 程式語言(第四版),施威銘研究室,2016-07-22,"
+具備良好的程式設計方法，建立正確的物件導向概念，才能真正寫好 Java 程式   本書不僅僅希望讓讀者學會可以正確編譯與執行的 Java 程式，也同時希望讓讀者瞭解良好的程式設計方法。因此，在內文中，處處...more
+",https://www.books.com.tw/products/0010723133?loc=P_0003_043
+44,程式邏輯訓練入門與運用：使用JAVA SE 8(附光碟),李春雄,2016-06-24,"
+培養同學具備程式設計的概念及實作，以讓學生能自行設計一些更有彈性的應用程式(例如：數學上重複性及複雜性的計算)。   使得在設計程式的過程中，培養將邏輯思考模式轉化成電腦語言的能力，並且獲得自我...more
+",https://www.books.com.tw/products/0010720362?loc=P_0003_044
+45,王者歸來：Struts2+Spring+Hibernate框架技術與專案實戰應用--第3版,"繆勇,陳亞輝",2016-03-21,"
+全書以S2SH(Struts 2+Spring+Hibernate)框架技術為基礎，詳細說明S2SH 框架技術的基礎和使用方法，並透過大量的練習和實例幫助讀者了解和熟練S2SH 的核心技術，加強讀者的實作操作能力。   從Eclipse開發....more
+",https://www.books.com.tw/products/0010709299?loc=P_0003_045
+46,學Java語言從玩EV3與NXT樂高機器人開始,李春雄,2015-11-20,"
+樂高是一家世界知名的積木玩具公司，從各種簡單的積木到複雜的動力機構，甚至是自創的樂高機器人，全都能讓大人與小孩玩到不亦樂乎。為何樂高能讓大、小朋友甚至玩家百玩不厭呢?其最主要原因是它可以依照...more
+",https://www.books.com.tw/products/0010700564?loc=P_0003_046
+47,Eclipse完全攻略(第四版)[Gradle自動化建構Java開發專案],石黑尚久,2015-11-03,"
+◎全面剖析Eclipse的架構原理   ◎多元的範例程式碼解析，逐步引領學習與實作   ◎介紹Gradle自動化專案建構與團隊協作開發特點   ◎由Eclipse說明Web、Apache Struts、CVS、UML、Swing、Apple......more
+",https://www.books.com.tw/products/0010694626?loc=P_0003_047
+48,細說Java 8 Vol. II：異常處理與圖形介面程式設計,李剛,2015-10-30,"
+本書是大陸知名程式設計著作《瘋狂 Java 講義》經編集而成之第二冊，內容匯集了作者 8 年來的 Java 授課經歷、以及培訓出數千名程式設計師的教學經驗。可以作為自我學習、或是安排教學課程之重點參考書目...more
+",https://www.books.com.tw/products/0010694157?loc=P_0003_048
+49,細說Java 8 Vol. III：資料庫、網路與多執行緒程式設計,李剛,2015-10-30,"
+本書是大陸知名程式設計著作《瘋狂 Java 講義》經編集而成之第三冊，內容匯集了作者 8 年來的 Java 授課經歷、以及培訓出數千名程式設計師的教學經驗。可以作為自我學習、或是安排教學課程之重點參考書目...more
+",https://www.books.com.tw/products/0010694159?loc=P_0003_049
+50,細說Java 8 Vol. I：物件導向程式設計,李剛,2015-09-30,"
+本書是大陸知名程式設計著作《瘋狂 Java 講義》經編集而成之第一冊，內容匯集了作者 8 年來的 Java 授課經歷、以及培訓出數千名程式設計師的教學經驗。可以作為自我學習、或是安排教學課程之重點參考書目...more
+",https://www.books.com.tw/products/0010691122?loc=P_0003_050
+51,Java SE 8懶人包,Cay S. Horstmann,2015-07-31,"
+Java SE 8 for the Really Impatient   在上百萬名程式設計師的殷切期盼下，Java SE 8 可說是近年來最重大的 Java 改版。lambda 運算式(閉包)以及串流的引進為 Java 程式設計所帶來的重......more
+",https://www.books.com.tw/products/0010684415?loc=P_0003_051
+52,Java 技術手冊(第六版),"Benjamin J Evans,David Flanagan",2015-07-16,"
+「在熱門技術討論區和 javadoc d 參考資料中，這本最新版本書籍仍然是最簡單明確的途徑，讓你很快得到所需要的答案。」 -Kevlin Henney   顧問、作家、演講者及《程式設計人應該知道的97件事》的書籍主編 ...more
+",https://www.books.com.tw/products/0010682675?loc=P_0003_052
+53,Java程式設計導論(第十版),Y. Daniel Liang,2015-04-15,"
+本書以問題導向方式教授程式設計，強調的是問題解決而非僅是語法介紹，書中運用發人深省的問題介紹程式設計。前面幾章的核心思維是問題解決，透過適當的語法與函式庫介紹讓讀者可以學習撰寫程式解決問題；...more
+",https://www.books.com.tw/products/0010671212?loc=P_0003_053
+54,JavaFX 8技術手冊,黃嘉輝,2014-12-12,"
+● 涵蓋JavaFX 8所有物件與新功能   ● 深入解說JavaFX 3D   ● 介紹效果、圖表、繪圖、動畫、多媒體等功能   ● 說明如何以Lambda Expression處理事件   JavaFX以「Write Once, Dep......more
+",https://www.books.com.tw/products/0010659265?loc=P_0003_054
+55,Java 8 Lambdas 技術手冊,Richard Warburton,2014-11-21,"
+通俗的函數式程式設計   「太重要了，這本書清楚地交代了為什麼、在哪邊與如何運用lambdas來改進程式地基。」 -Martijn Verburg jClarity與Java Champion執行長   「極力推薦此書，每個想擁抱JDK8中......more
+",https://www.books.com.tw/products/0010656547?loc=P_0003_055
+56,Java程式設計師面試寶典,Noel Markham,2014-10-31,"
+戰勝面試，順利獲得Java程式設計師工作    如果您想要爭取熱門的Java工作職位，那麼本書是專為此準備的，書中提供許多可能會在面試時碰到的問題。身為專業面試兼Java開發人員的Noel Markham與Interview Ze...more
+",https://www.books.com.tw/products/0010654370?loc=P_0003_056
+57,Java 8 程式語言學習手冊(附範例光碟),陳會安,2014-10-13,"
+本書是一本能夠讓您真正學會物件導向程式設計和建立物件導向思維的書，筆者使用大量程式範例和圖例來幫助讀者學習程式設計和驗證所學，能夠讓讀者循序漸進的學習程式語言的基礎、程式設計方法和Java物件導...more
+",https://www.books.com.tw/products/0010655990?loc=P_0003_057
+58,Java 網路程式設計(第四版),Elliotte Rusty Harold,2014-09-29,"
+開發網路應用程式   本書對Java網路程式設計提供完整介紹，讀者會學到如何使用Java的網路類別庫，輕鬆完成多執行緒伺服器，加密通訊，區域網路廣播與發送數據到伺服器端處理程式等常見的網路通訊任務。   ...more
+",https://www.books.com.tw/products/0010650557?loc=P_0003_058
+59,JAVA HOW TO PROGRAM (EARLY OBJECTS) 10/E (GE),DEITEL,2014-01-01,"
+The Deitels’ groundbreaking How to Program series offers unparalleled breadth and depth of object-oriented programming c......more
+",https://www.books.com.tw/products/0010671563?loc=P_0003_059
+60,最新Java 7程式語言(附光碟片),施威銘研究室,2013-05-30,"
+具備良好的程式設計方法，建立正確的物件導向概念，才能真正寫好Java程式   本書不僅僅希望讓讀者學會可以正確編譯與執行的Java程式，也同時希望讓讀者瞭解良好的程式設計方法。因此， 在內文中， 處處可...more
+",https://www.books.com.tw/products/0010588325?loc=P_0003_060
+61,Java Web整合開發-JSP+Servlet+Struts+Hibernate+Spring(第三版)(附範例DVD),劉京華等,2013-03-22,"
+JSP、Servlet、Struts、Hibernate、AOP、WebWork、Spring、EJB…，好複雜，這麼多技術到底都是做什麼的?它們有什麼關聯呢?   近幾年，Web 程式發展異常迅猛，不僅出現了形形色色的購物網站、交友網站、......more
+",https://www.books.com.tw/products/0010582054?loc=P_0003_061
+62,Java全能語法速查字典,明日科技,2012-10-20,"
+本書共分為22章，包括JDK常用類別、JSP應用及Java EE輕量級框架等豐富技術，其內容豐富實用，涉及Java中常用類別的方法及屬性、JSP編程、JSTL標籤庫、Struts框架、Hibernate框架、Spring框架等各方面技術...more
+",https://www.books.com.tw/products/0010562068?loc=P_0003_062
+63,資料結構in Java(第二版)(附光碟),李銘城,2012-09-30,"
+近年來，Java 已逐漸成為資訊領域最重要的高階程式語言，也是資訊相關科系的必修課程。本書是以 Java 語言為程式撰寫工具，用來解決傳統資料結構的問題。   本書內含完整的資料結構相關主題，包括：陣列、...more
+",https://www.books.com.tw/products/0010564236?loc=P_0003_063
+64,Java 7 教學手冊 第五版(附光碟),洪維恩,2012-08-07,"
+從 1995 年發跡至今，Java 由一個沒沒無聞的名詞，到現在的當紅炸子雞，掘起速度之快，讓其它的程式語言望塵莫及。現在流行的必備品 — 智慧型手機與汽車資訊監控系統等都可以看到 Java 的蹤跡，Java 並不...more
+",https://www.books.com.tw/products/0010555220?loc=P_0003_064
+65,Java 效能優化指南,Charlie Hunt、Binu John,2012-07-10,"
+“絕對是Java系統效能優化的大師級作品… 假如你喜歡了解這些詳盡細節，這本書就是為你而寫的。” - James Gosling，Java語言的創建者   由於Java平台和多核/多處理器硬體系統的進步，讓Java軟體的效能和擴展...more
+",https://www.books.com.tw/products/0010551366?loc=P_0003_065
+66,Java分散式處理實務精要：奠定雲端基礎的63個思考術,林昊,2011-12-16,"
+.應用Java同步機制   .探究JVM的運作原理   .剖析分散式的效率調校   .建置雲端伺服器的基礎   .活用平行處理套件進行實例解析   本書總結作者在淘寶網進行大型分散式Java應用的經驗，詳細介紹分散式應用...more
+",https://www.books.com.tw/products/0010527673?loc=P_0003_066
+67,深入淺出Java程式設計,陳明,2011-11-01,"
+※更多書籍資訊請到 www.bookcity.com.tw網站   Java是從一種程式語言逐步發展為一種運算平台的技術。Java的前身是一種與平台無關的程式語言--Oak，它誕生於1991年Sun公司的一個研究計畫，該計畫最初的目的...more
+",https://www.books.com.tw/products/0010529154?loc=P_0003_067
+68,Java101物件導向程式設計(第二版),呂瑞麟、陳宜惠,2011-10-14,"
+物件導向程式設計一點都不困難!本書跳脫傳統程式設計書籍的編寫方式，直接以範例切入物件導向概念，讓您能循序漸進熟悉物件導向觀念，每章節利用練習題，跟著書本內容學習，無形中學會如何利用Java寫出符...more
+",https://www.books.com.tw/products/0010522836?loc=P_0003_068
+69,STARTING OUT WITH JAVA: EARLY OBJECTS 4/E (PIE),GADDIS,2011-01-01,"
+1. A new chapter on databases: New to this edition is Chapter 15, “Databases.” This chapter introduces the student to da......more
+",https://www.books.com.tw/products/0010505605?loc=P_0003_069
+70,SCJP 6.0認證教戰手冊(第二版)Oracle Certified Professional Java Programmer(附光碟),黃彬華,2010-10-25,"
+1.Oracle SCJP認證考試介紹：詳細介紹Oracle SCJP 6.0認證考試的範圍與考試題型，並一步一步地帶領讀者在VUE官方網站上註冊個人資料與訂定考場。列出VUE在台灣所有合法考場的名稱與地址。   2.Java基本語...more
+",https://www.books.com.tw/products/0010485431?loc=P_0003_070
+71,資料結構：使用Java,呂高旭,2010-07-09,"
+從各類入學考試、公家機關特考，一直到各種科學領域的相關科系，資料結構均是非常重要的科目，更是相關科系學生與從業人員必須修習的基礎課程。儘管如此，抽象難懂的教材內容經常令此課程的學習者望之卻步...more
+",https://www.books.com.tw/products/0010475450?loc=P_0003_071
+72,Java網路程式設計與資料傳遞(附安裝程式+範例VCD),賈蓉生、吳宗靜、施嘉佶,2010-01-01,"
+(1) 輕鬆入門：本書以Java初學入門觀點切入網路程式設計，輕鬆入門。   (2) 熟練實作：任何學習重點都搭配範例實作並探討，完全剖析Java網路程式。   (3) 問題導向：協助讀者提出問題，解決問題，本書編輯...more
+",https://www.books.com.tw/products/0010459457?loc=P_0003_072
+73,Java 6 SCJP認證：馬到成功(附範例光碟),康廷數位,2009-12-09,"
+Java 從 1995 年問世至今，已經成為全球最多人採用的程式語言，並且在各種層面的應用領域被廣泛使用，透過 SCJP 認證的準備過程，你將能夠具備完整的基礎 Java 技術能力，為將來 Java 生涯的發展奠定良好...more
+",https://www.books.com.tw/products/0010461983?loc=P_0003_073
+74,Java編程語言 (4th Edition),"James Go...,Ken Arnold",2009-09-30,"
+直接出自Java語言創造者，並經過完整修訂的這一本《The Java Programming Language》第四版，不論是對Java編程的新手或老手、初級或高階，都是一份不可或缺的資源。   遍及全世界的許許多多軟體開發者，藉...more
+",https://www.books.com.tw/products/0010449393?loc=P_0003_074
+75,Java SE6 程式設計學習教本,康廷數位,2009-05-09,"
+透過大量的範例與圖示說明，本書從 Java 平台特性與基本的語法入門開始，逐步帶領讀者進入 Java 程式設計的學習殿堂。內容涵蓋 Java SE 6基礎與進階關鍵內容，詳細討論各種 Java 理論與程式設計實作示範。...more
+",https://www.books.com.tw/products/0010435793?loc=P_0003_075
+76,最新 Java 2 程式設計與 SCJP 認證 (附光碟),施威銘研究室著,2009-03-31,"
+具備正確的觀念、扎實的學習, 再演練模擬試題, 考證照就會有好成績。   本書完全符合 SCJP 5.0 / 6.0 命題範圍, 觀念講解最清晰, 並於各章提供多個綜合應用範例, 章末並提供 SCJP 模擬試題與程式練習, 讓...more
+",https://www.books.com.tw/products/0010431706?loc=P_0003_076
+77,Java概論與實作：Servlet網站網頁與資料庫(附光碟),賈蓉生、胡大源、林金池,2009-02-16,"
+Java System Concepts and Servlet Database Programming   *Servlet網站 *互動式網頁設計 *資料庫網頁指令 *查榜系統實例 *網路銀行實例   自1990年昇陽開始研發Java以......more
+",https://www.books.com.tw/products/0010427619?loc=P_0003_077
+78,Java概論與實作：資料庫入門程式(附光碟),賈蓉生．胡大源．林金池,2008-08-08,"
+Java System Concepts and Database Programming   自1990年昇陽開始研發Java以來，至今Java儼然已成為最具網路潛力的程式語言。目前大多數之網路線上遊戲、網路銀行資料庫都是以Java撰寫而......more
+",https://www.books.com.tw/products/0010412295?loc=P_0003_078
+79,資料結構 in Java,李銘城,2008-04-01,"
+本書是以Java語言為程式撰寫工具，內含完整的資料結構相關主題，每一章除了基本的觀念介紹、程式實作，還有相關主題的應用範例說明。   為了提供深入的問題討論，每一章都附有具挑戰性的專題研究，包括： ...more
+",https://www.books.com.tw/products/0010406919?loc=P_0003_079
+80,Java程式設計聖經,PCuSER電腦人文化編輯部,2008-02-22,"
+Java最佳化程式開發   本書透過豐富、完整、極具代表性的實例，展示了如何提升Java應用性能，並且給予最佳化前與最佳化後的Java應用程式的性能差別，以實際的實例與數字告訴讀者，為什麼不可以這麼做，而...more
+",https://www.books.com.tw/products/0010465084?loc=P_0003_080
+81,Java程式設計學習手冊,孫衛琴,2007-03-16,"
+本書內容由淺入深，緊密結合實際，利用大量典型實例，詳細講解Java物件導向物件的程式設計思想、程式設計語法和設計模式，介紹常見Java類別庫的用法，總結優化Java程式設計的各種寶貴經驗，深入闡述Java虛...more
+",https://www.books.com.tw/products/0010356874?loc=P_0003_081
+82,Hibernate程式高手秘笈,James Elliott,2006-05-05,"
+Hibernate是針對Java設計的輕量型物件/關聯式資料庫對映服務軟體，可讓你以自然的Java物件形式，輕鬆使用關聯式資料庫資訊，並且相當有效率。Hibernate 2.1剛剛贏得《Software Development》雜誌第14屆......more
+",https://www.books.com.tw/products/0010330796?loc=P_0003_082
+83,中文JAVA程式設計(附1光碟)(三版),江振瑞,2006-03-10,"
+本書是針對第一次學習程式語言的讀者而寫的，適用於有基本的電腦概念但未曾學習過電腦程式語言的初學者。當然，讀者若已經學習過其他程式語言，自然可以更輕鬆的閱讀本書。而讀者若已學習過Java語言甚至於...more
+",https://www.books.com.tw/products/0010327031?loc=P_0003_083
+84,Java最佳化程式開發,林勝利、王坤茹、孟海利,2006-01-22,"
+本書透過豐富、完整、極具代表性的實例，展示了如何提升Java應用性能，並且給予最佳化前與最佳化後的Java應用程式的性能差別，以實際的實例與數字告訴讀者，為什麼不可以這麼做，而是應該怎麼做，深入分析...more
+",https://www.books.com.tw/products/0010322243?loc=P_0003_084
+85,JAVA2程式設計教學(附DVD),吳佳諺,2005-10-25,"
+Java2程式設計教學，將數位內容錄製，並且由國內Java2程式設計名師吳佳諺老師親自授課，為第一等的數位教學內容。Java2程式設計數位教學總時數為24小時，為國內大專院校指定使用教材，為資策會教育訊練中...more
+",https://www.books.com.tw/products/0010312730?loc=P_0003_085
+86,JAVA2物件導向程式教學(附DVD),吳佳諺,2005-10-25,"
+Java2物件導向設計教學，將數位內容錄製，並且由國內Java2程式設計名師吳佳諺老師親自授課，為第一等的數位教學內容。Java2物件導向數位教學總時數為18小時，為國內大專院校指定使用教材，為資策會教育訊...more
+",https://www.books.com.tw/products/0010312731?loc=P_0003_086
+87,JAVA2徹底研究,吳佳諺,2005-10-25,"
+Java2徹底研究，將數位內容錄製，並且由國內Java2程式設計名師吳佳諺老師親自授課，為第一等的數位教學內容。Java2徹底研究數位教學總時數為42小時，為國內大專院校指定使用教材，為資策會教育訊練中心指...more
+",https://www.books.com.tw/products/0010312732?loc=P_0003_087
+88,深入淺出 Java 程式設計 第二版,"Bert Bates,Kathy Sierra",2005-10-24,"
+Head First Java 是個完整的物件導向(object-oriented，OO)程式設計與 Java 的學習指引。此書是根據學習理論所設計的、 讓你可以從學習程式語言的基本開始一直到包括執行緒、網路、與分散式程式等項目。最...more
+",https://www.books.com.tw/products/0010311883?loc=P_0003_088
+89,Java 2完美的演繹,蔡垂雄:林義証等,2004-09-10,"
+書中講解理論與實務兼俱，範例淺顯易懂且具代表性和實用性，非常適於教學和自學，是一本最佳的Java書籍，針對不同的應用技術，讓您快樂的學習Java沒有挫折感。   附錄A介紹如何使用共享軟體Gel的整合開發...more
+",https://www.books.com.tw/products/0010270959?loc=P_0003_089
+90,資料結構、演算法與應用：使用JAVA(附範例光碟片),戴顯權,2002-12-27,"
+本書包含資料結構與演算法的內容，更包含了一些延伸的課程。全書分為三個部分，第一個部分，從第一章到第四章，主要是回顧Java程式設計概念與分析評量程式效能的方法。第五章到第十七章是這本書的第二部分...more
+",https://www.books.com.tw/products/0010465924?loc=P_0003_090
+91,JAVA 經典範例 第二版,David Flanagan,2002-05-15,"
+內容簡介 對於已經熟悉 C/C++ 的程式設計師，要如何以最快的方式進入 Java 殿堂?再找一本細說重頭的教科書嗎?那未免太枯燥乏味了!或許公認最簡單的方式，就是直接看範例，直接體驗實際現成的程式碼，直接...more
+",https://www.books.com.tw/products/0010193066?loc=P_0003_091
+92,Java Servlet 程式設計(第二版),Jason Hunter with William Crawford,2002-03-16,"
+內容簡介： Servlet 是一種專用來擴充伺服器功能的小型 Java 程式，它是 J2EE 的一部份，也是 JavaServer Pages(JSP)的基礎。Servlet 提供一種快速、高功能、可移植的環境來製作動態的網站內容，其運作效....more
+",https://www.books.com.tw/products/0010188543?loc=P_0003_092
