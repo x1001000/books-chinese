@@ -1,6 +1,6 @@
 # Code and corpus of the conference paper
 
-![](1.jpg)
-![](2.jpg)
-![](3.jpg)
-![](4.jpg)
+![](paper/1.jpg)
+![](paper/2.jpg)
+![](paper/3.jpg)
+![](paper/4.jpg)
