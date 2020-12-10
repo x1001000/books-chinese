@@ -1,4 +1,4 @@
-# Code and data of the conference paper
+# Code and corpus of the conference paper
 
 ![](1.jpg)
 ![](2.jpg)
